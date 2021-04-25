@@ -26,8 +26,9 @@ Merci pour votre compréhansion :)
 
 ## gestion des erreurs :
 ![Capture d’écran (163)](https://user-images.githubusercontent.com/52804863/115994648-ce20c700-a5cf-11eb-9d35-4d5a900dbefc.png)
-![Capture d’écran (166)](https://user-images.githubusercontent.com/52804863/115994653-cf51f400-a5cf-11eb-80e3-70f727d3019c.png)
 ![Capture d’écran (157)](https://user-images.githubusercontent.com/52804863/115994657-cfea8a80-a5cf-11eb-9d78-65a5aac3341e.png)
+
+![Capture d’écran (166)](https://user-images.githubusercontent.com/52804863/115994653-cf51f400-a5cf-11eb-80e3-70f727d3019c.png)
 
 
 ## resultats :
