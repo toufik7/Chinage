@@ -24,10 +24,17 @@ en cas d'erreur d'execution , veuiller nous contacter par Email :
 
 Merci pour votre compréhansion :)
 
-![Capture d’écran (162)](https://user-images.githubusercontent.com/52804863/115994647-cd883080-a5cf-11eb-8fca-5f9d67e6a429.png)
+## gestion des erreurs :
 ![Capture d’écran (163)](https://user-images.githubusercontent.com/52804863/115994648-ce20c700-a5cf-11eb-9d35-4d5a900dbefc.png)
+
+## resultats :
+![Capture d’écran (162)](https://user-images.githubusercontent.com/52804863/115994647-cd883080-a5cf-11eb-8fca-5f9d67e6a429.png)
+
 ![Capture d’écran (164)](https://user-images.githubusercontent.com/52804863/115994650-ce20c700-a5cf-11eb-9bf9-bf43509a24ac.png)
 ![Capture d’écran (165)](https://user-images.githubusercontent.com/52804863/115994652-ceb95d80-a5cf-11eb-825e-d0acd8553f14.png)
+
+## fonctionnement :
+
 ![Capture d’écran (166)](https://user-images.githubusercontent.com/52804863/115994653-cf51f400-a5cf-11eb-80e3-70f727d3019c.png)
 ![Capture d’écran (155)](https://user-images.githubusercontent.com/52804863/115994654-cf51f400-a5cf-11eb-8ee3-18a60f8c9a92.png)
 ![Capture d’écran (156)](https://user-images.githubusercontent.com/52804863/115994656-cfea8a80-a5cf-11eb-88c1-d6e283ac3784.png)
