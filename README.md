@@ -27,6 +27,7 @@ Merci pour votre compréhansion :)
 ## gestion des erreurs :
 ![Capture d’écran (163)](https://user-images.githubusercontent.com/52804863/115994648-ce20c700-a5cf-11eb-9d35-4d5a900dbefc.png)
 ![Capture d’écran (166)](https://user-images.githubusercontent.com/52804863/115994653-cf51f400-a5cf-11eb-80e3-70f727d3019c.png)
+![Capture d’écran (157)](https://user-images.githubusercontent.com/52804863/115994657-cfea8a80-a5cf-11eb-9d78-65a5aac3341e.png)
 
 
 ## resultats :
@@ -39,7 +40,7 @@ Merci pour votre compréhansion :)
 ![Capture d’écran (155)](https://user-images.githubusercontent.com/52804863/115994654-cf51f400-a5cf-11eb-8ee3-18a60f8c9a92.png)
 ![Capture d’écran (155)](https://user-images.githubusercontent.com/52804863/115994654-cf51f400-a5cf-11eb-8ee3-18a60f8c9a92.png)
 ![Capture d’écran (156)](https://user-images.githubusercontent.com/52804863/115994656-cfea8a80-a5cf-11eb-88c1-d6e283ac3784.png)
-![Capture d’écran (157)](https://user-images.githubusercontent.com/52804863/115994657-cfea8a80-a5cf-11eb-9d78-65a5aac3341e.png)
+
 ![Capture d’écran (158)](https://user-images.githubusercontent.com/52804863/115994659-d0832100-a5cf-11eb-939d-2d19b4245f46.png)
 ![Capture d’écran (159)](https://user-images.githubusercontent.com/52804863/115994660-d0832100-a5cf-11eb-80fd-4c37328d4240.png)
 ![Capture d’écran (160)](https://user-images.githubusercontent.com/52804863/115994662-d11bb780-a5cf-11eb-81ff-cabc88d9e449.png)
