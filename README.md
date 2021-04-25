@@ -11,7 +11,10 @@
               2. le manuelle d'utilisation Chainage
 --------------------------------------------------------------------------------------------------------
 ### code source disponnible.
-2 fichier .txt : rules.txt et rules1.txt sont disponnible pour tester l'application.
+2 fichier .txt : 
+[rules.txt](https://github.com/toufik7/Chinage/files/6371969/rules.txt) et 
+[rules1.txt](https://github.com/toufik7/Chinage/files/6371970/rules1.txt)
+sont disponnible pour tester l'application.
 
 --------------------------------------------------------------------------------------------------------
 en cas d'errur d'execution , veuiller nous contacter par Email :
