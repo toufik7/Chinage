@@ -1,3 +1,5 @@
+[Mini_projet_IC.pdf](https://github.com/toufik7/Chinage/files/7519856/Mini_projet_IC.pdf)
+
 [configuration initial.docx](https://github.com/toufik7/Chinage/files/6371980/configuration.initial.-.Copie.docx)
 
 [manuelle d'utilisation Chainage.docx](https://github.com/toufik7/Chinage/files/6371981/manuelle.d.utilisation.Chainage.-.Copie.docx)
